@@ -1,4 +1,7 @@
 # OptiComm: Advanced ESP8266 Li-Fi Communication System
+![Language](https://img.shields.io/badge/LANGUAGE-C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![IDE](https://img.shields.io/badge/IDE-ARDUINO-00979D?style=for-the-badge&logo=arduino)
+![Hardware](https://img.shields.io/badge/HARDWARE-ESP8266-e74c3c?style=for-the-badge&logo=espressif)
 
 ## Project Overview
 Li-Fi (Light Fidelity) is an innovative technology that transmits data using light rather than radio waves. This project implements a simplex (one-way) optical communication link using two ESP8266 microcontrollers. 
